@@ -10,4 +10,4 @@
 8. Odottele code reviewiä. Jos olet kajolainen, code review tapahtuu jotenkin kivasti yhteisesti kokouksessa.
 
 ## Ohjeita digipalvelutiimille
-Kysy issue-trackerista Otsolta. Sieltä löytyy inspiraatiota mitä koodata seuraavaksi.
+Kysy issue-trackerista Otsolta. Sieltä löytyy inspiraatiota mitä koodata seuraavaksi. Pitäkää hauskaa :)
