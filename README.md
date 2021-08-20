@@ -7,7 +7,7 @@
 5. Kovaa ajoa vaan! npm run dev ajaa kehitystilassa, npm start tuotannossa. Muokkauksia saa tehdä.
 6. Commitoi muutokset. Muista hyvä commit-hygienia ja hyvät commit messaget!! Viestit saa olla suomea tai englantia, suomi kenties helpompi koska tästä ei tule isoa kansainvälistä opensource-projektia.
 7. Jos olet Kajolla pestissä digipalveluissa, sinulla on oikeudet ajaa suoraan git push origin main. Jos et, sinun täytyy normaaliin tapaan tehdä haarukka reposta omalle Github-tilille ja tehdä pull request. Kajolaisetkin saa toki näin tehdä.
-8. Odottele code reviewiä. Jos olet kajolainen, code review tapahtuu jotenkin kivasti yhteisesti.
+8. Odottele code reviewiä. Jos olet kajolainen, code review tapahtuu jotenkin kivasti yhteisesti kokouksessa.
 
 ## Ohjeita digipalvelutiimille
 Kysy issue-trackerista Otsolta. Sieltä löytyy inspiraatiota mitä koodata seuraavaksi.
