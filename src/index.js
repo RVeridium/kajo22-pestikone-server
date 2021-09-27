@@ -6,17 +6,14 @@ const corsOptions = {
     origin: 'http://localhost:3000',
     methods: 'POST'
 }
-//cors(corsOptions)
 app.use(express.json()); 
-
 
 app.get("/", (request, response) => {
     response.send("Toimii");
 })
-
+app.options('/reception', cors(corsOptions));
 app.post('/reception',cors(corsOptions), function(req, res) {
     console.log(req.body);
-    res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
     res.send(req.body)
 })
 
